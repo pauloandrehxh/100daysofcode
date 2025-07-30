@@ -1,5 +1,5 @@
 # Dia 2
-Finalizei um projeto básico de single page utilizando HTML e CSS
+Finalizei um [projeto](https://github.com/pauloandrehxh/projeto-travelgram.git) básico de single page utilizando HTML e CSS
 
 O que eu consegui aprender?
 - Conceitos básicos de flexbox
