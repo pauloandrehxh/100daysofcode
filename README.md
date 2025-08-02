@@ -5,10 +5,13 @@ Desafio de 100 dias codando e commitando no github
 Comecei um curso da rocketseat para fullstack, e revisei conceitos de html e css
 
 ## [Dia 2](dia2/day2.md)
-Finalizei um projeto básico de single page utilizando HTML e CSS
+Finalizei um [projeto](https://github.com/pauloandrehxh/projeto-travelgram.git) básico de single page utilizando HTML e CSS
 
 ## [Dia 3](dia3/day3.md)
 Iniciei um novo projeto de single page de um portal de notícias utilizando HTML e CSS, para exercitar o uso de grid.
 
 ## [Dia 4](dia4/day4.md)
 Finalizando o projeto de portal de notícias usando grid.
+
+## [Dia 5](dia5/day5.md)
+Finalizando o [projeto](https://github.com/pauloandrehxh/portal-de-noticias) de portal de notícias usando grid.

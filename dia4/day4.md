@@ -1,5 +1,5 @@
 # Dia 4
-Finalizando o projeto de portal de notícias usando grid.
+Finalizando o [projeto de portal de notícias](https://github.com/pauloandrehxh/portal-de-noticias) usando grid.
 
 O que eu consegui aprender?
 - Seletores de css: before e has
