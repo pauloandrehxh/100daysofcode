@@ -15,3 +15,7 @@ Finalizando o projeto de portal de notícias usando grid.
 
 ## [Dia 5](dia5/day5.md)
 Finalizando o [projeto](https://github.com/pauloandrehxh/portal-de-noticias) de portal de notícias usando grid.
+
+
+## [Dia 6](dia6/day6.md)
+Estudei alguns conceitos de javascript, e iniciei um novo projeto para desenvolver nos outros dias.
